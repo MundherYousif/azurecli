@@ -1,1 +1,1 @@
-# azurecli
+# Azure CLI Only
